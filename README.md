@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/github/followers/thiago-orbe-ai.svg?style=social&label=Follow&maxAge=2592000)
 ![](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dark)
+
 <!—
 themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, Dracula
 -->
